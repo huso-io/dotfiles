@@ -25,5 +25,6 @@ yarn global add \
   npm-check-updates \
   modernizr \
   webpack \
+  phantomjs-prebuilt \
 
 echo "安装完成。"

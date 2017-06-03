@@ -25,5 +25,6 @@ yarn global remove \
   npm-check-updates \
   modernizr \
   webpack \
+  phantomjs-prebuilt \
 
 echo "卸载完成。"
