@@ -22,5 +22,8 @@ yarn global remove \
   pug-cli \
   space-hogs \
   vtop \
+  npm-check-updates \
+  modernizr \
+  webpack \
 
 echo "卸载完成。"

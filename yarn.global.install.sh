@@ -22,5 +22,8 @@ yarn global add \
   pug-cli \
   space-hogs \
   vtop \
+  npm-check-updates \
+  modernizr \
+  webpack \
 
 echo "安装完成。"
