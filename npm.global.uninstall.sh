@@ -1,8 +1,8 @@
 #!/bin/sh
 
-echo "### 开始安装 Node 依赖..."
+echo "### 开始卸载全局 Node 依赖"
 
-npm uninstall -g \
+npm i -g \
   np \
   autoprefixer \
   babel-cli \
@@ -13,6 +13,9 @@ npm uninstall -g \
   eslint \
   eslint-plugin-flowtype \
   eslint-plugin-react \
+  eslint-plugin-compat \
+  eslint-plugin-import \
+  eslint-plugin-jsx-a11y \
   gulp \
   grunt-cli \
   jscs \
@@ -30,4 +33,4 @@ npm uninstall -g \
   npm-check-updates \
   @storybook/cli \
 
-echo "安装完成。"
+echo "卸载完成。"

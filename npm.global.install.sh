@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "### 开始卸载全局 Node 依赖"
+echo "### 开始安装 Node 依赖..."
 
 npm i -g \
   np \
@@ -13,6 +13,9 @@ npm i -g \
   eslint \
   eslint-plugin-flowtype \
   eslint-plugin-react \
+  eslint-plugin-compat \
+  eslint-plugin-import \
+  eslint-plugin-jsx-a11y \
   gulp \
   grunt-cli \
   jscs \
@@ -30,4 +33,4 @@ npm i -g \
   npm-check-updates \
   @storybook/cli \
 
-echo "卸载完成。"
+echo "安装完成。"
