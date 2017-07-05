@@ -6,7 +6,7 @@
 
 接下来我们会逐步借助 [skwp/dotfiles](https://github.com/skwp/dotfiles) 保证此类配置文件系统、平稳运行。
 
-***你不一定会在这儿找到令你惊讶的东西，但是 `generator-node-fullstack` 需要你的热情！*** :smiley:
+***你不一定会在这儿找到令你惊讶的东西，但是 `huso-io/dotfiles` 需要你的热情！*** :smiley:
 
 ## `apm.install.sh`
 
