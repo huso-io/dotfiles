@@ -3,6 +3,7 @@
 echo "### 开始卸载全局 Node 依赖"
 
 npm i -g \
+  nodemon \
   np \
   autoprefixer \
   babel-cli \

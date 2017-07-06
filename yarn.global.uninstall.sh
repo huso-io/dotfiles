@@ -3,6 +3,7 @@
 echo "### 开始卸载全局 Node 依赖"
 
 yarn global remove \
+  nodemon \
   np \
   autoprefixer \
   babel-cli \

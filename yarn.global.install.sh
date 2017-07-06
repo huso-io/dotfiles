@@ -1,8 +1,9 @@
 #!/bin/sh
 
-echo "### 开始安装 Node 依赖..."
+echo "### 开始安装全局 Node 依赖..."
 
 yarn global add \
+  nodemon \
   np \
   autoprefixer \
   babel-cli \
