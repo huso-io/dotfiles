@@ -33,5 +33,6 @@ yarn global add \
   json-server \
   npm-check-updates \
   @storybook/cli \
+  adonis-cli \
 
 echo "安装完成。"

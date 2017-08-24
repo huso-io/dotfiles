@@ -34,5 +34,6 @@ npm i -g \
   json-server \
   npm-check-updates \
   @storybook/cli \
+  adonis-cli \
 
 echo "卸载完成。"
