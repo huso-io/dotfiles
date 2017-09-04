@@ -3,6 +3,7 @@
 echo "### 开始安装全局 Node 依赖..."
 
 yarn global add \
+  create-react-app \
   nodemon \
   np \
   autoprefixer \
