@@ -3,6 +3,7 @@
 echo "### 开始安装全局 Node 依赖..."
 
 npm i -g \
+  now \
   create-react-app \
   nodemon \
   np \

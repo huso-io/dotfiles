@@ -3,6 +3,7 @@
 echo "### 开始卸载全局 Node 依赖"
 
 yarn global remove \
+  now \
   create-react-app \
   nodemon \
   np \
