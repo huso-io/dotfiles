@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "### 开始安装全局 Node 依赖..."
+echo "### 开始安装 Node 依赖..."
 
 yarn global add \
   now \
@@ -19,6 +19,7 @@ yarn global add \
   eslint-plugin-compat \
   eslint-plugin-import \
   eslint-plugin-jsx-a11y \
+  flow-typed \
   gulp \
   grunt-cli \
   jscs \

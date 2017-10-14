@@ -19,6 +19,7 @@ yarn global remove \
   eslint-plugin-compat \
   eslint-plugin-import \
   eslint-plugin-jsx-a11y \
+  flow-typed \
   gulp \
   grunt-cli \
   jscs \
