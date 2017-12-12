@@ -4,6 +4,7 @@ echo "### 开始卸载全局 Node 依赖"
 
 npm i -g \
   npm \
+  yo \
   now \
   create-react-app \
   nodemon \
@@ -11,6 +12,7 @@ npm i -g \
   autoprefixer \
   babel-cli \
   bower \
+  serve \
   browser-sync \
   caniuse-cmd \
   diff-so-fancy \
@@ -21,7 +23,7 @@ npm i -g \
   eslint-plugin-import \
   eslint-plugin-jsx-a11y \
   flow-typed \
-  gulp \
+  gulp-cli \
   grunt-cli \
   jscs \
   lerna \

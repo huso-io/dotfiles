@@ -4,12 +4,14 @@ echo "### 开始安装 Node 依赖..."
 
 yarn global add \
   now \
+  yo \
   create-react-app \
   nodemon \
   np \
   autoprefixer \
   babel-cli \
   bower \
+  serve \
   browser-sync \
   caniuse-cmd \
   diff-so-fancy \
@@ -20,7 +22,7 @@ yarn global add \
   eslint-plugin-import \
   eslint-plugin-jsx-a11y \
   flow-typed \
-  gulp \
+  gulp-cli \
   grunt-cli \
   jscs \
   lerna \
