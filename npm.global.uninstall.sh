@@ -4,6 +4,8 @@ echo "### 开始卸载全局 Node 依赖"
 
 npm i -g \
   npm \
+  lighthouse \
+  react-devtools \
   yo \
   now \
   create-react-app \

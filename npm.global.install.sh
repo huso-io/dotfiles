@@ -4,6 +4,8 @@ echo "### 开始安装 Node 依赖..."
 
 npm i -g \
   npm \
+  lighthouse \
+  react-devtools \
   nrm \
   yo \
   now \

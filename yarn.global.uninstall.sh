@@ -4,6 +4,8 @@ echo "### 开始卸载全局 Node 依赖"
 
 yarn global remove \
   now \
+  lighthouse \
+  react-devtools \
   yo \
   create-react-app \
   nodemon \
