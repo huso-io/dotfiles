@@ -6,6 +6,7 @@ yarn global add \
   now \
   lighthouse \
   react-devtools \
+  clean-css-cli \
   yo \
   create-react-app \
   nodemon \

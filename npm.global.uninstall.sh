@@ -6,6 +6,7 @@ npm i -g \
   npm \
   lighthouse \
   react-devtools \
+  clean-css-cli \
   yo \
   now \
   create-react-app \
