@@ -4,6 +4,7 @@ echo "### 开始安装 Node 依赖..."
 
 npm i -g \
   npm \
+  thanks \
   lighthouse \
   react-devtools \
   clean-css-cli \

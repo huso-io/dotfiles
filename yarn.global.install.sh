@@ -4,6 +4,7 @@ echo "### 开始安装 Node 依赖..."
 
 yarn global add \
   now \
+  thanks \
   lighthouse \
   react-devtools \
   clean-css-cli \
