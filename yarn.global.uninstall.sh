@@ -41,6 +41,7 @@ yarn global remove \
   vtop \
   json-server \
   npm-check-updates \
+  npm-check \
   @storybook/cli \
   adonis-cli \
 

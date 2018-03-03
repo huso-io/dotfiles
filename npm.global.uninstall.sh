@@ -42,6 +42,7 @@ npm i -g \
   vtop \
   json-server \
   npm-check-updates \
+  npm-check \
   @storybook/cli \
   adonis-cli \
 
