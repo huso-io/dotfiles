@@ -4,6 +4,9 @@ echo "### 开始卸载全局 Node 依赖"
 
 npm i -g \
   npm \
+  fkill-cli \
+  clear-cli \
+  npm-name-cli \
   thanks \
   lighthouse \
   react-devtools \

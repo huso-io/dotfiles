@@ -4,6 +4,9 @@ echo "### 开始卸载全局 Node 依赖"
 
 yarn global remove \
   now \
+  fkill-cli \
+  npm-name-cli \
+  clear-cli \
   thanks \
   lighthouse \
   react-devtools \
