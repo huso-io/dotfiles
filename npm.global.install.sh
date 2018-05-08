@@ -13,7 +13,6 @@ npm i -g \
   clean-css-cli \
   nrm \
   yo \
-  now \
   create-react-app \
   nodemon \
   np \

@@ -3,7 +3,6 @@
 echo "### 开始安装 Node 依赖..."
 
 yarn global add \
-  now \
   fkill-cli \
   clear-cli \
   npm-name-cli \

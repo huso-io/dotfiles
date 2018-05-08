@@ -12,7 +12,6 @@ npm i -g \
   react-devtools \
   clean-css-cli \
   yo \
-  now \
   create-react-app \
   nodemon \
   np \
