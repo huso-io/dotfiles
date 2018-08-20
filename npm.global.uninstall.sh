@@ -4,6 +4,8 @@ echo "### 开始卸载全局 Node 依赖"
 
 npm i -g \
   npm \
+  now \
+  trash-cli \
   fkill-cli \
   clear-cli \
   npm-name-cli \
@@ -47,5 +49,8 @@ npm i -g \
   npm-check \
   @storybook/cli \
   adonis-cli \
+  electron \
+  electron-packager \
+  electron-installer-dmg \
 
 echo "卸载完成。"

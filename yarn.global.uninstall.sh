@@ -3,7 +3,9 @@
 echo "### 开始卸载全局 Node 依赖"
 
 yarn global remove \
+  now \
   fkill-cli \
+  trash-cli \
   npm-name-cli \
   clear-cli \
   thanks \
@@ -46,5 +48,8 @@ yarn global remove \
   npm-check \
   @storybook/cli \
   adonis-cli \
+  electron \
+  electron-packager \
+  electron-installer-dmg \
 
 echo "卸载完成。"

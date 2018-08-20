@@ -3,7 +3,9 @@
 echo "### 开始安装 Node 依赖..."
 
 yarn global add \
+  now \
   fkill-cli \
+  trash-cli \
   clear-cli \
   npm-name-cli \
   thanks \
@@ -46,5 +48,8 @@ yarn global add \
   npm-check \
   @storybook/cli \
   adonis-cli \
+  electron \
+  electron-packager \
+  electron-installer-dmg \
 
 echo "安装完成。"
