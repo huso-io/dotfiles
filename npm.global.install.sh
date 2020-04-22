@@ -4,10 +4,20 @@ echo "### 开始安装 Node 依赖..."
 
 npm i -g \
   npm \
-  now \
+  pnpm \
+  @oopsunome/fast-gitignore \
+  @oopsunome/gitin \
+  @oopsunome/latest-gitignore \
+  @oopsunome/watermark-cli \
+  auto-changelog \
+  cfonts \
+  taskbook \
+  gatsby-cli \
+  username-cli \
   trash-cli \
   fkill-cli \
   clear-cli \
+  os-name-cli \
   npm-name-cli \
   thanks \
   lighthouse \
@@ -16,25 +26,20 @@ npm i -g \
   nrm \
   yo \
   create-react-app \
+  create-react-library \
+  nwb \
   nodemon \
   np \
-  autoprefixer \
-  babel-cli \
-  bower \
+  @babel/core \
+  @babel/cli \
   serve \
   browser-sync \
   caniuse-cmd \
-  diff-so-fancy \
   eslint \
-  eslint-plugin-flowtype \
-  eslint-plugin-react \
-  eslint-plugin-compat \
-  eslint-plugin-import \
-  eslint-plugin-jsx-a11y \
   flow-typed \
   gulp-cli \
   grunt-cli \
-  jscs \
+  prettier \
   lerna \
   mocha \
   node-gyp \
@@ -49,9 +54,12 @@ npm i -g \
   npm-check-updates \
   npm-check \
   @storybook/cli \
-  adonis-cli \
+  emma-cli \
+  figlet-cli \
   electron \
   electron-packager \
   electron-installer-dmg \
+  speed-test \
+  taskbook \
 
 echo "安装完成。"

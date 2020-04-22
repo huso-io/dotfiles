@@ -12,7 +12,7 @@
   "zenMode.restore": true,
   "editor.letterSpacing": 1,
   "editor.dragAndDrop": true,
-  "workbench.colorTheme": "Red",
+  "workbench.colorTheme": "Default Light+",
   "workbench.iconTheme": "vscode-icons",
   "files.exclude": {
     "**/.git": true,
